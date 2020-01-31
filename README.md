@@ -1,1 +1,9 @@
 # Login-SignUp
+//First
+>>>> in terminal go to server(cd server)
+
+>> npm run dev
+
+got to postman app then take API and test 
+
+i dont know what should i tell you .. so i'm sorry if u dont understand my code :)
